@@ -1,0 +1,680 @@
+{
+  "1977": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "combat-atari-2600",
+        "name": "Combat",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1977-09-11",
+        "tba": false,
+        "background_image": "/images/combat-atari-2600/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 350,
+        "reviews_text_count": "30",
+        "added": 400,
+        "added_by_status": {
+          "owned": 200,
+          "beaten": 100,
+          "dropped": 50,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 15,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50064,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 350,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/combat-atari-2600/cover.png"
+        ]
+      }
+    ]
+  },
+  "1978": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "breakout-atari-2600",
+        "name": "Breakout",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1978-01-01",
+        "tba": false,
+        "background_image": "/images/breakout-atari-2600/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "25",
+        "added": 320,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 80,
+          "dropped": 40,
+          "toplay": 20,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50071,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          },
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/breakout-atari-2600/cover.png"
+        ]
+      }
+    ]
+  },
+  "1980": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "adventure-atari-2600",
+        "name": "Adventure",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1980-01-01",
+        "tba": false,
+        "background_image": "/images/adventure-atari-2600/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 400,
+        "reviews_text_count": "35",
+        "added": 500,
+        "added_by_status": {
+          "owned": 250,
+          "beaten": 130,
+          "dropped": 50,
+          "toplay": 40,
+          "yet": 30
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50065,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 400,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/adventure-atari-2600/cover.png"
+        ]
+      },
+      {
+        "slug": "space-invaders-atari-2600",
+        "name": "Space Invaders",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1980-01-01",
+        "tba": false,
+        "background_image": "/images/space-invaders-atari-2600/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 550,
+        "reviews_text_count": "45",
+        "added": 650,
+        "added_by_status": {
+          "owned": 300,
+          "beaten": 180,
+          "dropped": 60,
+          "toplay": 60,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 25,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50068,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 550,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/space-invaders-atari-2600/cover.png"
+        ]
+      }
+    ]
+  },
+  "1981": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "missile-command-atari-2600",
+        "name": "Missile Command",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1981-01-01",
+        "tba": false,
+        "background_image": "/images/missile-command-atari-2600/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 380,
+        "reviews_text_count": "30",
+        "added": 450,
+        "added_by_status": {
+          "owned": 220,
+          "beaten": 110,
+          "dropped": 50,
+          "toplay": 40,
+          "yet": 30
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50069,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 380,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 10,
+            "name": "Strategy",
+            "slug": "strategy"
+          }
+        ],
+        "images": [
+          "/images/missile-command-atari-2600/cover.png"
+        ]
+      },
+      {
+        "slug": "asteroids-atari-2600",
+        "name": "Asteroids",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1981-06-01",
+        "tba": false,
+        "background_image": "/images/asteroids-atari-2600/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 420,
+        "reviews_text_count": "35",
+        "added": 500,
+        "added_by_status": {
+          "owned": 250,
+          "beaten": 120,
+          "dropped": 55,
+          "toplay": 40,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50070,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 420,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/asteroids-atari-2600/cover.png"
+        ]
+      }
+    ]
+  },
+  "1982": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "river-raid-atari-2600",
+        "name": "River Raid",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-01-01",
+        "tba": false,
+        "background_image": "/images/river-raid-atari-2600/cover.png",
+        "rating": 4.4,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 520,
+        "reviews_text_count": "40",
+        "added": 620,
+        "added_by_status": {
+          "owned": 290,
+          "beaten": 170,
+          "dropped": 60,
+          "toplay": 55,
+          "yet": 45
+        },
+        "metacritic": null,
+        "suggestions_count": 22,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50067,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 520,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/river-raid-atari-2600/cover.png"
+        ]
+      },
+      {
+        "slug": "frogger-atari-2600",
+        "name": "Frogger",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-01-01",
+        "tba": false,
+        "background_image": "/images/frogger-atari-2600/cover.png",
+        "rating": 4.2,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 480,
+        "reviews_text_count": "38",
+        "added": 580,
+        "added_by_status": {
+          "owned": 270,
+          "beaten": 160,
+          "dropped": 55,
+          "toplay": 50,
+          "yet": 45
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50072,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 480,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/frogger-atari-2600/cover.png"
+        ]
+      },
+      {
+        "slug": "yars-revenge-atari-2600",
+        "name": "Yars' Revenge",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 28,
+              "name": "Atari 2600",
+              "slug": "atari-2600"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-05-01",
+        "tba": false,
+        "background_image": "/images/yars-revenge-atari-2600/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 360,
+        "reviews_text_count": "28",
+        "added": 430,
+        "added_by_status": {
+          "owned": 210,
+          "beaten": 110,
+          "dropped": 45,
+          "toplay": 35,
+          "yet": 30
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50073,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 360,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/yars-revenge-atari-2600/cover.png"
+        ]
+      }
+    ]
+  }
+}

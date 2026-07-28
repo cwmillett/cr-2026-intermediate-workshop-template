@@ -1,0 +1,376 @@
+{
+  "1982": {
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "donkey-kong-colecovision",
+        "name": "Donkey Kong",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 46,
+              "name": "ColecoVision",
+              "slug": "colecovision"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-06-01",
+        "tba": false,
+        "background_image": "/images/donkey-kong-colecovision/cover.png",
+        "rating": 4.2,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 195,
+        "reviews_text_count": "25",
+        "added": 290,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 90,
+          "dropped": 30,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50114,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 195,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/donkey-kong-colecovision/cover.png"
+        ]
+      },
+      {
+        "slug": "zaxxon-colecovision",
+        "name": "Zaxxon",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 46,
+              "name": "ColecoVision",
+              "slug": "colecovision"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-01-01",
+        "tba": false,
+        "background_image": "/images/zaxxon-colecovision/cover.png",
+        "rating": 3.6,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 110,
+        "reviews_text_count": "15",
+        "added": 180,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 50,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50115,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 110,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/zaxxon-colecovision/cover.png"
+        ]
+      },
+      {
+        "slug": "venture-colecovision",
+        "name": "Venture",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 46,
+              "name": "ColecoVision",
+              "slug": "colecovision"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-01-01",
+        "tba": false,
+        "background_image": "/images/venture-colecovision/cover.png",
+        "rating": 3.4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 75,
+        "reviews_text_count": "12",
+        "added": 140,
+        "added_by_status": {
+          "owned": 60,
+          "beaten": 35,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50116,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 75,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/venture-colecovision/cover.png"
+        ]
+      },
+      {
+        "slug": "lady-bug-colecovision",
+        "name": "Lady Bug",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 46,
+              "name": "ColecoVision",
+              "slug": "colecovision"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1982-01-01",
+        "tba": false,
+        "background_image": "/images/lady-bug-colecovision/cover.png",
+        "rating": 3.2,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 60,
+        "reviews_text_count": "10",
+        "added": 110,
+        "added_by_status": {
+          "owned": 50,
+          "beaten": 25,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 5,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50117,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 60,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/lady-bug-colecovision/cover.png"
+        ]
+      }
+    ]
+  },
+  "1984": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "antarctic-adventure-colecovision",
+        "name": "Antarctic Adventure",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 46,
+              "name": "ColecoVision",
+              "slug": "colecovision"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1984-01-01",
+        "tba": false,
+        "background_image": "/images/antarctic-adventure-colecovision/cover.png",
+        "rating": 3.5,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 85,
+        "reviews_text_count": "14",
+        "added": 155,
+        "added_by_status": {
+          "owned": 65,
+          "beaten": 40,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 7,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50118,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 85,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 9,
+              "name": "Atari",
+              "slug": "atari"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/antarctic-adventure-colecovision/cover.png"
+        ]
+      }
+    ]
+  }
+}

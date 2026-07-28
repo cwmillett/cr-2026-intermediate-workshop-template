@@ -1,0 +1,620 @@
+{
+  "1989": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "super-mario-land-gb",
+        "name": "Super Mario Land",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-04-21",
+        "tba": false,
+        "background_image": "/images/super-mario-land-gb/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 350,
+        "reviews_text_count": "30",
+        "added": 480,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 200,
+          "dropped": 40,
+          "toplay": 30,
+          "yet": 30
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50095,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 350,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/super-mario-land-gb/cover.png"
+        ]
+      }
+    ]
+  },
+  "1990": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "final-fantasy-legend-ii",
+        "name": "Final Fantasy Legend II",
+        "playtime": 15,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-12-12",
+        "tba": false,
+        "background_image": "/images/final-fantasy-legend-ii/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "20",
+        "added": 220,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 90,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50103,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          }
+        ],
+        "images": [
+          "/images/final-fantasy-legend-ii/cover.png"
+        ]
+      }
+    ]
+  },
+  "1991": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "metroid-ii-return-of-samus",
+        "name": "Metroid II: Return of Samus",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-11-01",
+        "tba": false,
+        "background_image": "/images/metroid-ii-return-of-samus/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "25",
+        "added": 380,
+        "added_by_status": {
+          "owned": 140,
+          "beaten": 150,
+          "dropped": 40,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50099,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/metroid-ii-return-of-samus/cover.png"
+        ]
+      }
+    ]
+  },
+  "1992": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "kirbys-dream-land",
+        "name": "Kirby's Dream Land",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-04-27",
+        "tba": false,
+        "background_image": "/images/kirbys-dream-land/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 400,
+        "reviews_text_count": "35",
+        "added": 520,
+        "added_by_status": {
+          "owned": 200,
+          "beaten": 210,
+          "dropped": 40,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50098,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 400,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/kirbys-dream-land/cover.png"
+        ]
+      }
+    ]
+  },
+  "1993": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "the-legend-of-zelda-links-awakening-gb",
+        "name": "The Legend of Zelda: Link's Awakening",
+        "playtime": 12,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-06-06",
+        "tba": false,
+        "background_image": "/images/the-legend-of-zelda-links-awakening-gb/cover.png",
+        "rating": 4.6,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 620,
+        "reviews_text_count": "40",
+        "added": 750,
+        "added_by_status": {
+          "owned": 280,
+          "beaten": 300,
+          "dropped": 50,
+          "toplay": 60,
+          "yet": 60
+        },
+        "metacritic": null,
+        "suggestions_count": 22,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50096,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 620,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          }
+        ],
+        "images": [
+          "/images/the-legend-of-zelda-links-awakening-gb/cover.png"
+        ]
+      }
+    ]
+  },
+  "1994": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "wario-land-super-mario-land-3",
+        "name": "Wario Land: Super Mario Land 3",
+        "playtime": 7,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1994-01-21",
+        "tba": false,
+        "background_image": "/images/wario-land-super-mario-land-3/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "28",
+        "added": 410,
+        "added_by_status": {
+          "owned": 150,
+          "beaten": 160,
+          "dropped": 35,
+          "toplay": 30,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 14,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50101,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/wario-land-super-mario-land-3/cover.png"
+        ]
+      },
+      {
+        "slug": "donkey-kong-gb",
+        "name": "Donkey Kong",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1994-06-14",
+        "tba": false,
+        "background_image": "/images/donkey-kong-gb/cover.png",
+        "rating": 4.2,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 320,
+        "reviews_text_count": "30",
+        "added": 440,
+        "added_by_status": {
+          "owned": 170,
+          "beaten": 170,
+          "dropped": 35,
+          "toplay": 30,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 17,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50102,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 320,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/donkey-kong-gb/cover.png"
+        ]
+      },
+      {
+        "slug": "mega-man-v-gb",
+        "name": "Mega Man V",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Game Boy",
+              "slug": "game-boy"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1994-07-22",
+        "tba": false,
+        "background_image": "/images/mega-man-v-gb/cover.png",
+        "rating": 4.3,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "22",
+        "added": 260,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 100,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 13,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50100,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-v-gb/cover.png"
+        ]
+      }
+    ]
+  }
+}

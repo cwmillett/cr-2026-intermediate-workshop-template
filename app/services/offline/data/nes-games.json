@@ -1,0 +1,4502 @@
+{
+  "1985": {
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "super-mario-bros",
+        "name": "Super Mario Bros.",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/super-mario-bros/cover.png",
+        "rating": 4.5,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 500,
+        "reviews_text_count": "40",
+        "added": 800,
+        "added_by_status": {
+          "owned": 350,
+          "beaten": 300,
+          "dropped": 50,
+          "toplay": 50,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 30,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50001,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 500,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/super-mario-bros/cover.png",
+          "/images/super-mario-bros/snap.png",
+          "/images/super-mario-bros/super-mario-bros.jpg",
+          "/images/super-mario-bros/title.png"
+        ]
+      },
+      {
+        "slug": "duck-hunt",
+        "name": "Duck Hunt",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/duck-hunt/cover.png",
+        "rating": 3.6,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "12",
+        "added": 250,
+        "added_by_status": {
+          "owned": 130,
+          "beaten": 60,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 15,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50002,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/duck-hunt/cover.png",
+          "/images/duck-hunt/duck-hunt.jpg"
+        ]
+      },
+      {
+        "slug": "excitebike",
+        "name": "Excitebike",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/excitebike/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 110,
+        "reviews_text_count": "8",
+        "added": 180,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 50,
+          "dropped": 20,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50003,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 110,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 1,
+            "name": "Racing",
+            "slug": "racing"
+          }
+        ],
+        "images": [
+          "/images/excitebike/cover.png",
+          "/images/excitebike/excitebike.jpg"
+        ]
+      },
+      {
+        "slug": "ice-climber",
+        "name": "Ice Climber",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/ice-climber/cover.png",
+        "rating": 3.3,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 75,
+        "reviews_text_count": "5",
+        "added": 130,
+        "added_by_status": {
+          "owned": 70,
+          "beaten": 30,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 7,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50004,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 75,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/ice-climber/cover.png",
+          "/images/ice-climber/ice-climber.jpg"
+        ]
+      },
+      {
+        "slug": "kung-fu-nes",
+        "name": "Kung Fu",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/kung-fu-nes/cover.png",
+        "rating": 3.4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 90,
+        "reviews_text_count": "7",
+        "added": 160,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 45,
+          "dropped": 20,
+          "toplay": 10,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50005,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 90,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/kung-fu-nes/cover.png",
+          "/images/kung-fu-nes/kung-fu-nes.jpg"
+        ]
+      },
+      {
+        "slug": "gyromite",
+        "name": "Gyromite",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/gyromite/cover.png",
+        "rating": 2.8,
+        "rating_top": 3,
+        "ratings": [],
+        "ratings_count": 40,
+        "reviews_text_count": "3",
+        "added": 70,
+        "added_by_status": {
+          "owned": 40,
+          "beaten": 10,
+          "dropped": 10,
+          "toplay": 5,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 5,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50006,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 40,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/gyromite/cover.png",
+          "/images/gyromite/gyromite.jpg"
+        ]
+      },
+      {
+        "slug": "hogans-alley",
+        "name": "Hogan's Alley",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/hogans-alley/cover.png",
+        "rating": 3.1,
+        "rating_top": 3,
+        "ratings": [],
+        "ratings_count": 55,
+        "reviews_text_count": "4",
+        "added": 100,
+        "added_by_status": {
+          "owned": 55,
+          "beaten": 20,
+          "dropped": 15,
+          "toplay": 5,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50007,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 55,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/hogans-alley/cover.png",
+          "/images/hogans-alley/hogans-alley.jpg"
+        ]
+      },
+      {
+        "slug": "stack-up",
+        "name": "Stack-Up",
+        "playtime": 1,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1985-10-18",
+        "tba": false,
+        "background_image": "/images/stack-up/cover.png",
+        "rating": 2.5,
+        "rating_top": 3,
+        "ratings": [],
+        "ratings_count": 25,
+        "reviews_text_count": "2",
+        "added": 45,
+        "added_by_status": {
+          "owned": 25,
+          "beaten": 8,
+          "dropped": 7,
+          "toplay": 3,
+          "yet": 2
+        },
+        "metacritic": null,
+        "suggestions_count": 3,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50008,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 25,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/stack-up/cover.png",
+          "/images/stack-up/stack-up.jpg"
+        ]
+      }
+    ]
+  },
+  "1986": {
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "donkey-kong",
+        "name": "Donkey Kong",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-06-01",
+        "tba": false,
+        "background_image": "/images/donkey-kong/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 120,
+        "reviews_text_count": "10",
+        "added": 200,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 60,
+          "dropped": 20,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50011,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 120,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/donkey-kong/cover.png",
+          "/images/donkey-kong/snap.png",
+          "/images/donkey-kong/title.png"
+        ]
+      },
+      {
+        "slug": "balloon-fight",
+        "name": "Balloon Fight",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-06-01",
+        "tba": false,
+        "background_image": "/images/balloon-fight/cover.png",
+        "rating": 3.5,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 85,
+        "reviews_text_count": "6",
+        "added": 150,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 40,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 9,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50013,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 85,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/balloon-fight/cover.png"
+        ]
+      },
+      {
+        "slug": "metroid-nes",
+        "name": "Metroid",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-08-15",
+        "tba": false,
+        "background_image": "/images/metroid-nes/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 350,
+        "reviews_text_count": "28",
+        "added": 600,
+        "added_by_status": {
+          "owned": 250,
+          "beaten": 200,
+          "dropped": 60,
+          "toplay": 50,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50010,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 350,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/metroid-nes/cover.png",
+          "/images/metroid-nes/snap.png",
+          "/images/metroid-nes/title.png"
+        ]
+      },
+      {
+        "slug": "ghosts-n-goblins-nes",
+        "name": "Ghosts 'n Goblins",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-11-01",
+        "tba": false,
+        "background_image": "/images/ghosts-n-goblins-nes/cover.png",
+        "rating": 3.6,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 130,
+        "reviews_text_count": "10",
+        "added": 220,
+        "added_by_status": {
+          "owned": 110,
+          "beaten": 50,
+          "dropped": 35,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50014,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 130,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/ghosts-n-goblins-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "gradius-nes",
+        "name": "Gradius",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-12-01",
+        "tba": false,
+        "background_image": "/images/gradius-nes/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 140,
+        "reviews_text_count": "11",
+        "added": 240,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 60,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50019,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 140,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ],
+        "images": [
+          "/images/gradius-nes/cover.png"
+        ]
+      }
+    ]
+  },
+  "1987": {
+    "count": 8,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "pro-wrestling-nes",
+        "name": "Pro Wrestling",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-03-01",
+        "tba": false,
+        "background_image": "/images/pro-wrestling-nes/cover.png",
+        "rating": 3.3,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 70,
+        "reviews_text_count": "5",
+        "added": 120,
+        "added_by_status": {
+          "owned": 65,
+          "beaten": 25,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50015,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 70,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 15,
+            "name": "Sports",
+            "slug": "sports"
+          }
+        ],
+        "images": [
+          "/images/pro-wrestling-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "castlevania-nes",
+        "name": "Castlevania",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-05-01",
+        "tba": false,
+        "background_image": "/images/castlevania-nes/cover.png",
+        "rating": 4.2,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 320,
+        "reviews_text_count": "25",
+        "added": 550,
+        "added_by_status": {
+          "owned": 230,
+          "beaten": 180,
+          "dropped": 60,
+          "toplay": 40,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50016,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 320,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/castlevania-nes/cover.png",
+          "/images/castlevania-nes/snap.png",
+          "/images/castlevania-nes/title.png"
+        ]
+      },
+      {
+        "slug": "kid-icarus",
+        "name": "Kid Icarus",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-07-01",
+        "tba": false,
+        "background_image": "/images/kid-icarus/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "12",
+        "added": 260,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 80,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50012,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/kid-icarus/cover.png"
+        ]
+      },
+      {
+        "slug": "the-legend-of-zelda",
+        "name": "The Legend of Zelda",
+        "playtime": 15,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-08-22",
+        "tba": false,
+        "background_image": "/images/the-legend-of-zelda/cover.png",
+        "rating": 4.6,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 450,
+        "reviews_text_count": "35",
+        "added": 750,
+        "added_by_status": {
+          "owned": 300,
+          "beaten": 280,
+          "dropped": 50,
+          "toplay": 60,
+          "yet": 60
+        },
+        "metacritic": null,
+        "suggestions_count": 25,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50009,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 450,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          }
+        ],
+        "images": [
+          "/images/the-legend-of-zelda/cover.png",
+          "/images/the-legend-of-zelda/snap.png",
+          "/images/the-legend-of-zelda/title.png"
+        ]
+      },
+      {
+        "slug": "wrecking-crew",
+        "name": "Wrecking Crew",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-10-01",
+        "tba": false,
+        "background_image": "/images/wrecking-crew/cover.png",
+        "rating": 3.2,
+        "rating_top": 3,
+        "ratings": [],
+        "ratings_count": 60,
+        "reviews_text_count": "4",
+        "added": 110,
+        "added_by_status": {
+          "owned": 60,
+          "beaten": 25,
+          "dropped": 15,
+          "toplay": 5,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50020,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 60,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/wrecking-crew/cover.png"
+        ]
+      },
+      {
+        "slug": "rad-racer",
+        "name": "Rad Racer",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-10-01",
+        "tba": false,
+        "background_image": "/images/rad-racer/cover.png",
+        "rating": 3.5,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 95,
+        "reviews_text_count": "7",
+        "added": 160,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 40,
+          "dropped": 20,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50021,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 95,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 1,
+            "name": "Racing",
+            "slug": "racing"
+          }
+        ],
+        "images": [
+          "/images/rad-racer/cover.png"
+        ]
+      },
+      {
+        "slug": "mike-tysons-punch-out",
+        "name": "Mike Tyson's Punch-Out!!",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-10-18",
+        "tba": false,
+        "background_image": "/images/mike-tysons-punch-out/cover.png",
+        "rating": 4.4,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 380,
+        "reviews_text_count": "30",
+        "added": 650,
+        "added_by_status": {
+          "owned": 270,
+          "beaten": 220,
+          "dropped": 60,
+          "toplay": 50,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50017,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 380,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 15,
+            "name": "Sports",
+            "slug": "sports"
+          },
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          }
+        ],
+        "images": [
+          "/images/mike-tysons-punch-out/cover.png",
+          "/images/mike-tysons-punch-out/snap.png",
+          "/images/mike-tysons-punch-out/title.png"
+        ]
+      },
+      {
+        "slug": "mega-man-nes",
+        "name": "Mega Man",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-12-17",
+        "tba": false,
+        "background_image": "/images/mega-man-nes/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 250,
+        "reviews_text_count": "20",
+        "added": 420,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 140,
+          "dropped": 50,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50018,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 250,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-nes/cover.png"
+        ]
+      }
+    ]
+  },
+  "1988": {
+    "count": 9,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "r-c-pro-am",
+        "name": "R.C. Pro-Am",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-02-01",
+        "tba": false,
+        "background_image": "/images/r-c-pro-am/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 120,
+        "reviews_text_count": "9",
+        "added": 200,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 50,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50027,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 120,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 1,
+            "name": "Racing",
+            "slug": "racing"
+          }
+        ],
+        "images": [
+          "/images/r-c-pro-am/cover.png"
+        ]
+      },
+      {
+        "slug": "contra-nes",
+        "name": "Contra",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-02-09",
+        "tba": false,
+        "background_image": "/images/contra-nes/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "24",
+        "added": 500,
+        "added_by_status": {
+          "owned": 210,
+          "beaten": 170,
+          "dropped": 50,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50025,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ],
+        "images": [
+          "/images/contra-nes/cover.png",
+          "/images/contra-nes/snap.png",
+          "/images/contra-nes/title.png"
+        ]
+      },
+      {
+        "slug": "double-dragon-nes",
+        "name": "Double Dragon",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-06-01",
+        "tba": false,
+        "background_image": "/images/double-dragon-nes/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 160,
+        "reviews_text_count": "12",
+        "added": 280,
+        "added_by_status": {
+          "owned": 130,
+          "beaten": 80,
+          "dropped": 35,
+          "toplay": 20,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50022,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 160,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/double-dragon-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "life-force-nes",
+        "name": "Life Force",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-08-01",
+        "tba": false,
+        "background_image": "/images/life-force-nes/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 100,
+        "reviews_text_count": "7",
+        "added": 170,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 45,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50058,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 100,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ],
+        "images": [
+          "/images/life-force-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "zelda-ii-adventure-of-link",
+        "name": "Zelda II: The Adventure of Link",
+        "playtime": 10,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-09-01",
+        "tba": false,
+        "background_image": "/images/zelda-ii-adventure-of-link/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 200,
+        "reviews_text_count": "15",
+        "added": 350,
+        "added_by_status": {
+          "owned": 150,
+          "beaten": 100,
+          "dropped": 50,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 14,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50024,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 200,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/zelda-ii-adventure-of-link/cover.png",
+          "/images/zelda-ii-adventure-of-link/snap.png",
+          "/images/zelda-ii-adventure-of-link/title.png"
+        ]
+      },
+      {
+        "slug": "super-mario-bros-2",
+        "name": "Super Mario Bros. 2",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-10-09",
+        "tba": false,
+        "background_image": "/images/super-mario-bros-2/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "24",
+        "added": 500,
+        "added_by_status": {
+          "owned": 210,
+          "beaten": 170,
+          "dropped": 50,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50023,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/super-mario-bros-2/cover.png"
+        ]
+      },
+      {
+        "slug": "blaster-master-nes",
+        "name": "Blaster Master",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-11-01",
+        "tba": false,
+        "background_image": "/images/blaster-master-nes/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 110,
+        "reviews_text_count": "8",
+        "added": 190,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 50,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 9,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50028,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 110,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/blaster-master-nes/cover.png",
+          "/images/blaster-master-nes/snap.png",
+          "/images/blaster-master-nes/title.png"
+        ]
+      },
+      {
+        "slug": "bubble-bobble-nes",
+        "name": "Bubble Bobble",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-11-01",
+        "tba": false,
+        "background_image": "/images/bubble-bobble-nes/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 160,
+        "reviews_text_count": "12",
+        "added": 270,
+        "added_by_status": {
+          "owned": 130,
+          "beaten": 70,
+          "dropped": 35,
+          "toplay": 20,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50030,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 160,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 11,
+            "name": "Arcade",
+            "slug": "arcade"
+          }
+        ],
+        "images": [
+          "/images/bubble-bobble-nes/cover.png",
+          "/images/bubble-bobble-nes/snap.png",
+          "/images/bubble-bobble-nes/title.png"
+        ]
+      },
+      {
+        "slug": "bionic-commando-nes",
+        "name": "Bionic Commando",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-12-01",
+        "tba": false,
+        "background_image": "/images/bionic-commando-nes/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 130,
+        "reviews_text_count": "10",
+        "added": 220,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 65,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50029,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 130,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/bionic-commando-nes/cover.png"
+        ]
+      }
+    ]
+  },
+  "1989": {
+    "count": 6,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "tecmo-bowl",
+        "name": "Tecmo Bowl",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-02-01",
+        "tba": false,
+        "background_image": "/images/tecmo-bowl/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "14",
+        "added": 310,
+        "added_by_status": {
+          "owned": 150,
+          "beaten": 80,
+          "dropped": 40,
+          "toplay": 20,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50032,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 15,
+            "name": "Sports",
+            "slug": "sports"
+          }
+        ],
+        "images": [
+          "/images/tecmo-bowl/cover.png"
+        ]
+      },
+      {
+        "slug": "ninja-gaiden-nes",
+        "name": "Ninja Gaiden",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-03-01",
+        "tba": false,
+        "background_image": "/images/ninja-gaiden-nes/cover.png",
+        "rating": 4.1,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 270,
+        "reviews_text_count": "21",
+        "added": 460,
+        "added_by_status": {
+          "owned": 190,
+          "beaten": 150,
+          "dropped": 50,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50031,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 270,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/ninja-gaiden-nes/cover.png",
+          "/images/ninja-gaiden-nes/snap.png",
+          "/images/ninja-gaiden-nes/title.png"
+        ]
+      },
+      {
+        "slug": "mega-man-2",
+        "name": "Mega Man 2",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-06-01",
+        "tba": false,
+        "background_image": "/images/mega-man-2/cover.png",
+        "rating": 4.5,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 400,
+        "reviews_text_count": "32",
+        "added": 680,
+        "added_by_status": {
+          "owned": 280,
+          "beaten": 250,
+          "dropped": 50,
+          "toplay": 50,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 22,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50026,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 400,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-2/cover.png",
+          "/images/mega-man-2/snap.png",
+          "/images/mega-man-2/title.png"
+        ]
+      },
+      {
+        "slug": "dragon-warrior-nes",
+        "name": "Dragon Warrior",
+        "playtime": 15,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-08-01",
+        "tba": false,
+        "background_image": "/images/dragon-warrior-nes/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 170,
+        "reviews_text_count": "13",
+        "added": 290,
+        "added_by_status": {
+          "owned": 130,
+          "beaten": 90,
+          "dropped": 35,
+          "toplay": 20,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50035,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 170,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          }
+        ],
+        "images": [
+          "/images/dragon-warrior-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "ducktales-nes",
+        "name": "DuckTales",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-09-14",
+        "tba": false,
+        "background_image": "/images/ducktales-nes/cover.png",
+        "rating": 4.2,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 250,
+        "reviews_text_count": "20",
+        "added": 420,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 150,
+          "dropped": 40,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 15,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50033,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 250,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/ducktales-nes/cover.png",
+          "/images/ducktales-nes/snap.png",
+          "/images/ducktales-nes/title.png"
+        ]
+      },
+      {
+        "slug": "tetris-nes",
+        "name": "Tetris",
+        "playtime": 10,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-11-01",
+        "tba": false,
+        "background_image": "/images/tetris-nes/cover.png",
+        "rating": 4.4,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 400,
+        "reviews_text_count": "32",
+        "added": 680,
+        "added_by_status": {
+          "owned": 300,
+          "beaten": 200,
+          "dropped": 60,
+          "toplay": 60,
+          "yet": 60
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50036,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 400,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/tetris-nes/cover.png",
+          "/images/tetris-nes/snap.png",
+          "/images/tetris-nes/title.png"
+        ]
+      }
+    ]
+  },
+  "1990": {
+    "count": 13,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "river-city-ransom",
+        "name": "River City Ransom",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-01-01",
+        "tba": false,
+        "background_image": "/images/river-city-ransom/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 140,
+        "reviews_text_count": "11",
+        "added": 240,
+        "added_by_status": {
+          "owned": 110,
+          "beaten": 70,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50042,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 140,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          }
+        ],
+        "images": [
+          "/images/river-city-ransom/cover.png"
+        ]
+      },
+      {
+        "slug": "batman-the-video-game-nes",
+        "name": "Batman: The Video Game",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-02-01",
+        "tba": false,
+        "background_image": "/images/batman-the-video-game-nes/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 140,
+        "reviews_text_count": "11",
+        "added": 240,
+        "added_by_status": {
+          "owned": 110,
+          "beaten": 70,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50034,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 140,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/batman-the-video-game-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "super-mario-bros-3",
+        "name": "Super Mario Bros. 3",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-02-12",
+        "tba": false,
+        "background_image": "/images/super-mario-bros-3/cover.png",
+        "rating": 4.7,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 550,
+        "reviews_text_count": "45",
+        "added": 900,
+        "added_by_status": {
+          "owned": 380,
+          "beaten": 340,
+          "dropped": 50,
+          "toplay": 65,
+          "yet": 65
+        },
+        "metacritic": null,
+        "suggestions_count": 30,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50038,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 550,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/super-mario-bros-3/cover.png",
+          "/images/super-mario-bros-3/snap.png",
+          "/images/super-mario-bros-3/title.png"
+        ]
+      },
+      {
+        "slug": "super-c-nes",
+        "name": "Super C",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-04-01",
+        "tba": false,
+        "background_image": "/images/super-c-nes/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "12",
+        "added": 260,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 80,
+          "dropped": 30,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50043,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ],
+        "images": [
+          "/images/super-c-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "ninja-gaiden-ii-nes",
+        "name": "Ninja Gaiden II: The Dark Sword of Chaos",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-05-01",
+        "tba": false,
+        "background_image": "/images/ninja-gaiden-ii-nes/cover.png",
+        "rating": 4.1,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 160,
+        "reviews_text_count": "12",
+        "added": 270,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 80,
+          "dropped": 35,
+          "toplay": 20,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 11,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50051,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 160,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/ninja-gaiden-ii-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "chip-n-dale-rescue-rangers",
+        "name": "Chip 'n Dale: Rescue Rangers",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-06-08",
+        "tba": false,
+        "background_image": "/images/chip-n-dale-rescue-rangers/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 170,
+        "reviews_text_count": "13",
+        "added": 290,
+        "added_by_status": {
+          "owned": 130,
+          "beaten": 90,
+          "dropped": 30,
+          "toplay": 20,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 11,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50049,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 170,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/chip-n-dale-rescue-rangers/cover.png"
+        ]
+      },
+      {
+        "slug": "final-fantasy-nes",
+        "name": "Final Fantasy",
+        "playtime": 20,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-07-12",
+        "tba": false,
+        "background_image": "/images/final-fantasy-nes/cover.png",
+        "rating": 4.1,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "22",
+        "added": 480,
+        "added_by_status": {
+          "owned": 200,
+          "beaten": 160,
+          "dropped": 50,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50039,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          }
+        ],
+        "images": [
+          "/images/final-fantasy-nes/cover.png",
+          "/images/final-fantasy-nes/snap.png",
+          "/images/final-fantasy-nes/title.png"
+        ]
+      },
+      {
+        "slug": "little-nemo-dream-master",
+        "name": "Little Nemo: The Dream Master",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-09-01",
+        "tba": false,
+        "background_image": "/images/little-nemo-dream-master/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 110,
+        "reviews_text_count": "8",
+        "added": 190,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 50,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 9,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50044,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 110,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/little-nemo-dream-master/cover.png"
+        ]
+      },
+      {
+        "slug": "castlevania-iii-draculas-curse",
+        "name": "Castlevania III: Dracula's Curse",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-09-01",
+        "tba": false,
+        "background_image": "/images/castlevania-iii-draculas-curse/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 230,
+        "reviews_text_count": "18",
+        "added": 400,
+        "added_by_status": {
+          "owned": 170,
+          "beaten": 130,
+          "dropped": 45,
+          "toplay": 30,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 15,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50037,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 230,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/castlevania-iii-draculas-curse/cover.png",
+          "/images/castlevania-iii-draculas-curse/snap.png",
+          "/images/castlevania-iii-draculas-curse/title.png"
+        ]
+      },
+      {
+        "slug": "dr-mario",
+        "name": "Dr. Mario",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-10-01",
+        "tba": false,
+        "background_image": "/images/dr-mario/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 200,
+        "reviews_text_count": "16",
+        "added": 340,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 90,
+          "dropped": 40,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50041,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 200,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/dr-mario/cover.png",
+          "/images/dr-mario/snap.png",
+          "/images/dr-mario/title.png"
+        ]
+      },
+      {
+        "slug": "mega-man-3",
+        "name": "Mega Man 3",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-11-01",
+        "tba": false,
+        "background_image": "/images/mega-man-3/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "24",
+        "added": 510,
+        "added_by_status": {
+          "owned": 210,
+          "beaten": 180,
+          "dropped": 50,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50040,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-3/cover.png"
+        ]
+      },
+      {
+        "slug": "startropics",
+        "name": "StarTropics",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-12-01",
+        "tba": false,
+        "background_image": "/images/startropics/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 100,
+        "reviews_text_count": "8",
+        "added": 170,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 45,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50045,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 100,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/startropics/cover.png"
+        ]
+      },
+      {
+        "slug": "teenage-mutant-ninja-turtles-ii",
+        "name": "TMNT II: The Arcade Game",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-12-14",
+        "tba": false,
+        "background_image": "/images/teenage-mutant-ninja-turtles-ii/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 220,
+        "reviews_text_count": "17",
+        "added": 380,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 120,
+          "dropped": 45,
+          "toplay": 30,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 14,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50050,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 220,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/teenage-mutant-ninja-turtles-ii/cover.png"
+        ]
+      }
+    ]
+  },
+  "1991": {
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "adventure-island-ii",
+        "name": "Adventure Island II",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-02-01",
+        "tba": false,
+        "background_image": "/images/adventure-island-ii/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 80,
+        "reviews_text_count": "6",
+        "added": 140,
+        "added_by_status": {
+          "owned": 70,
+          "beaten": 35,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 7,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50052,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 80,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/adventure-island-ii/cover.png"
+        ]
+      },
+      {
+        "slug": "battletoads-nes",
+        "name": "Battletoads",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-06-01",
+        "tba": false,
+        "background_image": "/images/battletoads-nes/cover.png",
+        "rating": 3.7,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "14",
+        "added": 310,
+        "added_by_status": {
+          "owned": 140,
+          "beaten": 60,
+          "dropped": 60,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50046,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          },
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/battletoads-nes/cover.png",
+          "/images/battletoads-nes/snap.png",
+          "/images/battletoads-nes/title.png"
+        ]
+      },
+      {
+        "slug": "ninja-gaiden-iii-nes",
+        "name": "Ninja Gaiden III: The Ancient Ship of Doom",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-08-01",
+        "tba": false,
+        "background_image": "/images/ninja-gaiden-iii-nes/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 100,
+        "reviews_text_count": "7",
+        "added": 170,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 45,
+          "dropped": 25,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50057,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 100,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/ninja-gaiden-iii-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "tecmo-super-bowl",
+        "name": "Tecmo Super Bowl",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-12-01",
+        "tba": false,
+        "background_image": "/images/tecmo-super-bowl/cover.png",
+        "rating": 4.2,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 200,
+        "reviews_text_count": "16",
+        "added": 340,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 90,
+          "dropped": 40,
+          "toplay": 25,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50048,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 200,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 15,
+            "name": "Sports",
+            "slug": "sports"
+          }
+        ],
+        "images": [
+          "/images/tecmo-super-bowl/cover.png"
+        ]
+      }
+    ]
+  },
+  "1992": {
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "bucky-ohare-nes",
+        "name": "Bucky O'Hare",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-01-01",
+        "tba": false,
+        "background_image": "/images/bucky-ohare-nes/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 70,
+        "reviews_text_count": "5",
+        "added": 120,
+        "added_by_status": {
+          "owned": 55,
+          "beaten": 35,
+          "dropped": 15,
+          "toplay": 10,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50056,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 70,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/bucky-ohare-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "mega-man-4",
+        "name": "Mega Man 4",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-01-01",
+        "tba": false,
+        "background_image": "/images/mega-man-4/cover.png",
+        "rating": 4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "14",
+        "added": 310,
+        "added_by_status": {
+          "owned": 140,
+          "beaten": 100,
+          "dropped": 30,
+          "toplay": 20,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50047,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-4/cover.png"
+        ]
+      },
+      {
+        "slug": "dragon-warrior-iii-nes",
+        "name": "Dragon Warrior III",
+        "playtime": 25,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-03-01",
+        "tba": false,
+        "background_image": "/images/dragon-warrior-iii-nes/cover.png",
+        "rating": 4.1,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 120,
+        "reviews_text_count": "9",
+        "added": 200,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 60,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50055,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 120,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "rpg"
+          }
+        ],
+        "images": [
+          "/images/dragon-warrior-iii-nes/cover.png"
+        ]
+      },
+      {
+        "slug": "mega-man-5",
+        "name": "Mega Man 5",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-12-01",
+        "tba": false,
+        "background_image": "/images/mega-man-5/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 130,
+        "reviews_text_count": "10",
+        "added": 220,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 65,
+          "dropped": 25,
+          "toplay": 15,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50054,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 130,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-5/cover.png"
+        ]
+      }
+    ]
+  },
+  "1993": {
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "fire-emblem-shadow-dragon",
+        "name": "Fire Emblem: Shadow Dragons and the Blade of Light",
+        "playtime": 20,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-01-01",
+        "tba": false,
+        "background_image": "/images/fire-emblem-shadow-dragon/cover.png",
+        "rating": 3.5,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 60,
+        "reviews_text_count": "5",
+        "added": 110,
+        "added_by_status": {
+          "owned": 50,
+          "beaten": 30,
+          "dropped": 15,
+          "toplay": 8,
+          "yet": 7
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50059,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 60,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 17,
+            "name": "Strategy",
+            "slug": "strategy"
+          },
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          }
+        ],
+        "images": [
+          "/images/fire-emblem-shadow-dragon/cover.png"
+        ]
+      },
+      {
+        "slug": "mega-man-6",
+        "name": "Mega Man 6",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-03-01",
+        "tba": false,
+        "background_image": "/images/mega-man-6/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 120,
+        "reviews_text_count": "10",
+        "added": 200,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 65,
+          "dropped": 25,
+          "toplay": 10,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50060,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 120,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/mega-man-6/cover.png"
+        ]
+      },
+      {
+        "slug": "zodas-revenge-startropics-ii",
+        "name": "Zoda's Revenge: StarTropics II",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-03-01",
+        "tba": false,
+        "background_image": "/images/zodas-revenge-startropics-ii/cover.png",
+        "rating": 3.6,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 45,
+        "reviews_text_count": "3",
+        "added": 75,
+        "added_by_status": {
+          "owned": 40,
+          "beaten": 18,
+          "dropped": 10,
+          "toplay": 4,
+          "yet": 3
+        },
+        "metacritic": null,
+        "suggestions_count": 4,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50061,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 45,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/zodas-revenge-startropics-ii/cover.png"
+        ]
+      },
+      {
+        "slug": "kirbys-adventure",
+        "name": "Kirby's Adventure",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-05-01",
+        "tba": false,
+        "background_image": "/images/kirbys-adventure/cover.png",
+        "rating": 4.2,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "22",
+        "added": 480,
+        "added_by_status": {
+          "owned": 200,
+          "beaten": 170,
+          "dropped": 40,
+          "toplay": 35,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50053,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/kirbys-adventure/cover.png",
+          "/images/kirbys-adventure/snap.png",
+          "/images/kirbys-adventure/title.png"
+        ]
+      },
+      {
+        "slug": "warios-woods",
+        "name": "Wario's Woods",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 49,
+              "name": "NES",
+              "slug": "nes"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-12-10",
+        "tba": false,
+        "background_image": "/images/warios-woods/cover.png",
+        "rating": 3.4,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 50,
+        "reviews_text_count": "4",
+        "added": 85,
+        "added_by_status": {
+          "owned": 45,
+          "beaten": 20,
+          "dropped": 10,
+          "toplay": 5,
+          "yet": 5
+        },
+        "metacritic": null,
+        "suggestions_count": 5,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50063,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 50,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 7,
+              "name": "Nintendo",
+              "slug": "nintendo"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/warios-woods/cover.png"
+        ]
+      }
+    ]
+  }
+}

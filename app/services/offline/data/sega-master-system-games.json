@@ -1,0 +1,771 @@
+{
+  "1986": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "alex-kidd-in-miracle-world",
+        "name": "Alex Kidd in Miracle World",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1986-11-01",
+        "tba": false,
+        "background_image": "/images/alex-kidd-in-miracle-world/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 320,
+        "reviews_text_count": "28",
+        "added": 450,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 120,
+          "dropped": 60,
+          "toplay": 50,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50074,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 320,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/alex-kidd-in-miracle-world/cover.png"
+        ]
+      }
+    ]
+  },
+  "1987": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "phantasy-star",
+        "name": "Phantasy Star",
+        "playtime": 8,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1987-12-20",
+        "tba": false,
+        "background_image": "/images/phantasy-star/cover.png",
+        "rating": 4.5,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 410,
+        "reviews_text_count": "35",
+        "added": 520,
+        "added_by_status": {
+          "owned": 200,
+          "beaten": 150,
+          "dropped": 50,
+          "toplay": 70,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 22,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50075,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 410,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/phantasy-star/cover.png"
+        ]
+      }
+    ]
+  },
+  "1988": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "r-type-sms",
+        "name": "R-Type",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-01-01",
+        "tba": false,
+        "background_image": "/images/r-type-sms/cover.png",
+        "rating": 4.2,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "24",
+        "added": 380,
+        "added_by_status": {
+          "owned": 150,
+          "beaten": 100,
+          "dropped": 50,
+          "toplay": 40,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 15,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50078,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/r-type-sms/cover.png"
+        ]
+      },
+      {
+        "slug": "shinobi-sms",
+        "name": "Shinobi",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-01-01",
+        "tba": false,
+        "background_image": "/images/shinobi-sms/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "26",
+        "added": 400,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 110,
+          "dropped": 45,
+          "toplay": 45,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50079,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/shinobi-sms/cover.png"
+        ]
+      }
+    ]
+  },
+  "1989": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "wonder-boy-iii-the-dragons-trap",
+        "name": "Wonder Boy III: The Dragon's Trap",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-01-01",
+        "tba": false,
+        "background_image": "/images/wonder-boy-iii-the-dragons-trap/cover.png",
+        "rating": 4.6,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 380,
+        "reviews_text_count": "32",
+        "added": 490,
+        "added_by_status": {
+          "owned": 190,
+          "beaten": 140,
+          "dropped": 55,
+          "toplay": 60,
+          "yet": 45
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50076,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 380,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          }
+        ],
+        "images": [
+          "/images/wonder-boy-iii-the-dragons-trap/cover.png"
+        ]
+      }
+    ]
+  },
+  "1990": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "columns-sms",
+        "name": "Columns",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-01-01",
+        "tba": false,
+        "background_image": "/images/columns-sms/cover.png",
+        "rating": 3.5,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "20",
+        "added": 220,
+        "added_by_status": {
+          "owned": 90,
+          "beaten": 50,
+          "dropped": 35,
+          "toplay": 25,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50081,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 7,
+            "name": "Puzzle",
+            "slug": "puzzle"
+          }
+        ],
+        "images": [
+          "/images/columns-sms/cover.png"
+        ]
+      },
+      {
+        "slug": "castle-of-illusion-starring-mickey-mouse-sms",
+        "name": "Castle of Illusion Starring Mickey Mouse",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-11-01",
+        "tba": false,
+        "background_image": "/images/castle-of-illusion-starring-mickey-mouse-sms/cover.png",
+        "rating": 4.3,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 350,
+        "reviews_text_count": "30",
+        "added": 460,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 130,
+          "dropped": 50,
+          "toplay": 55,
+          "yet": 45
+        },
+        "metacritic": null,
+        "suggestions_count": 19,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50082,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 350,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          }
+        ],
+        "images": [
+          "/images/castle-of-illusion-starring-mickey-mouse-sms/cover.png"
+        ]
+      }
+    ]
+  },
+  "1991": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "sonic-the-hedgehog-sms",
+        "name": "Sonic the Hedgehog",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-10-25",
+        "tba": false,
+        "background_image": "/images/sonic-the-hedgehog-sms/cover.png",
+        "rating": 4.4,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 480,
+        "reviews_text_count": "38",
+        "added": 600,
+        "added_by_status": {
+          "owned": 230,
+          "beaten": 170,
+          "dropped": 70,
+          "toplay": 75,
+          "yet": 55
+        },
+        "metacritic": null,
+        "suggestions_count": 25,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50077,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 480,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/sonic-the-hedgehog-sms/cover.png"
+        ]
+      },
+      {
+        "slug": "golden-axe-warrior",
+        "name": "Golden Axe Warrior",
+        "playtime": 7,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-01-01",
+        "tba": false,
+        "background_image": "/images/golden-axe-warrior/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 200,
+        "reviews_text_count": "22",
+        "added": 300,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 80,
+          "dropped": 40,
+          "toplay": 35,
+          "yet": 25
+        },
+        "metacritic": null,
+        "suggestions_count": 14,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50080,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 200,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          },
+          {
+            "id": 3,
+            "name": "Adventure",
+            "slug": "adventure"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/golden-axe-warrior/cover.png"
+        ]
+      }
+    ]
+  },
+  "1993": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "power-strike-ii",
+        "name": "Power Strike II",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 26,
+              "name": "Sega Master System",
+              "slug": "sega-master-system"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-01-01",
+        "tba": false,
+        "background_image": "/images/power-strike-ii/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 100,
+        "reviews_text_count": "20",
+        "added": 200,
+        "added_by_status": {
+          "owned": 80,
+          "beaten": 45,
+          "dropped": 30,
+          "toplay": 25,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50083,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 100,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/power-strike-ii/cover.png"
+        ]
+      }
+    ]
+  }
+}
