@@ -1,0 +1,678 @@
+{
+  "1991": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "sonic-the-hedgehog-genesis",
+        "name": "Sonic the Hedgehog",
+        "playtime": 5,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1991-06-23",
+        "tba": false,
+        "background_image": "/images/sonic-the-hedgehog-genesis/cover.png",
+        "rating": 4.5,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 580,
+        "reviews_text_count": "45",
+        "added": 690,
+        "added_by_status": {
+          "owned": 280,
+          "beaten": 250,
+          "dropped": 40,
+          "toplay": 70,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 25,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50084,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 580,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/sonic-the-hedgehog-genesis/cover.png"
+        ]
+      }
+    ]
+  },
+  "1992": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "sonic-the-hedgehog-2-genesis",
+        "name": "Sonic the Hedgehog 2",
+        "playtime": 6,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-11-21",
+        "tba": false,
+        "background_image": "/images/sonic-the-hedgehog-2-genesis/cover.png",
+        "rating": 4.6,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 550,
+        "reviews_text_count": "42",
+        "added": 670,
+        "added_by_status": {
+          "owned": 270,
+          "beaten": 240,
+          "dropped": 35,
+          "toplay": 75,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 22,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50090,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 550,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/sonic-the-hedgehog-2-genesis/cover.png"
+        ]
+      },
+      {
+        "slug": "streets-of-rage-2-genesis",
+        "name": "Streets of Rage 2",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1992-12-20",
+        "tba": false,
+        "background_image": "/images/streets-of-rage-2-genesis/cover.png",
+        "rating": 4.7,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 480,
+        "reviews_text_count": "38",
+        "added": 580,
+        "added_by_status": {
+          "owned": 230,
+          "beaten": 200,
+          "dropped": 30,
+          "toplay": 70,
+          "yet": 50
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50085,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 480,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          }
+        ],
+        "images": [
+          "/images/streets-of-rage-2-genesis/cover.png"
+        ]
+      }
+    ]
+  },
+  "1993": {
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "gunstar-heroes-genesis",
+        "name": "Gunstar Heroes",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-09-10",
+        "tba": false,
+        "background_image": "/images/gunstar-heroes-genesis/cover.png",
+        "rating": 4.4,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 320,
+        "reviews_text_count": "30",
+        "added": 420,
+        "added_by_status": {
+          "owned": 170,
+          "beaten": 140,
+          "dropped": 25,
+          "toplay": 50,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50086,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 320,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/gunstar-heroes-genesis/cover.png"
+        ]
+      },
+      {
+        "slug": "shinobi-iii-return-of-the-ninja-master-genesis",
+        "name": "Shinobi III: Return of the Ninja Master",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-07-22",
+        "tba": false,
+        "background_image": "/images/shinobi-iii-return-of-the-ninja-master-genesis/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 280,
+        "reviews_text_count": "28",
+        "added": 370,
+        "added_by_status": {
+          "owned": 150,
+          "beaten": 120,
+          "dropped": 25,
+          "toplay": 40,
+          "yet": 35
+        },
+        "metacritic": null,
+        "suggestions_count": 16,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50092,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 280,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/shinobi-iii-return-of-the-ninja-master-genesis/cover.png"
+        ]
+      },
+      {
+        "slug": "shining-force-ii-genesis",
+        "name": "Shining Force II",
+        "playtime": 10,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-10-01",
+        "tba": false,
+        "background_image": "/images/shining-force-ii-genesis/cover.png",
+        "rating": 4.5,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 350,
+        "reviews_text_count": "32",
+        "added": 450,
+        "added_by_status": {
+          "owned": 180,
+          "beaten": 150,
+          "dropped": 30,
+          "toplay": 50,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 20,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50088,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 350,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          },
+          {
+            "id": 10,
+            "name": "Strategy",
+            "slug": "strategy"
+          }
+        ],
+        "images": [
+          "/images/shining-force-ii-genesis/cover.png"
+        ]
+      },
+      {
+        "slug": "phantasy-star-iv-genesis",
+        "name": "Phantasy Star IV",
+        "playtime": 10,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1993-12-17",
+        "tba": false,
+        "background_image": "/images/phantasy-star-iv-genesis/cover.png",
+        "rating": 4.8,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 300,
+        "reviews_text_count": "35",
+        "added": 400,
+        "added_by_status": {
+          "owned": 160,
+          "beaten": 130,
+          "dropped": 20,
+          "toplay": 50,
+          "yet": 40
+        },
+        "metacritic": null,
+        "suggestions_count": 18,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50087,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 300,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 5,
+            "name": "RPG",
+            "slug": "role-playing-games-rpg"
+          }
+        ],
+        "images": [
+          "/images/phantasy-star-iv-genesis/cover.png"
+        ]
+      }
+    ]
+  },
+  "1995": {
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "comix-zone-genesis",
+        "name": "Comix Zone",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1995-08-02",
+        "tba": false,
+        "background_image": "/images/comix-zone-genesis/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 250,
+        "reviews_text_count": "22",
+        "added": 340,
+        "added_by_status": {
+          "owned": 140,
+          "beaten": 100,
+          "dropped": 35,
+          "toplay": 35,
+          "yet": 30
+        },
+        "metacritic": null,
+        "suggestions_count": 14,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50089,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 250,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 6,
+            "name": "Fighting",
+            "slug": "fighting"
+          }
+        ],
+        "images": [
+          "/images/comix-zone-genesis/cover.png"
+        ]
+      },
+      {
+        "slug": "vectorman-genesis",
+        "name": "Vectorman",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 167,
+              "name": "Sega Genesis",
+              "slug": "sega-genesis"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1995-10-24",
+        "tba": false,
+        "background_image": "/images/vectorman-genesis/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "20",
+        "added": 260,
+        "added_by_status": {
+          "owned": 110,
+          "beaten": 80,
+          "dropped": 25,
+          "toplay": 25,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50093,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 11,
+              "name": "SEGA",
+              "slug": "sega"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          },
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          }
+        ],
+        "images": [
+          "/images/vectorman-genesis/cover.png"
+        ]
+      }
+    ]
+  }
+}

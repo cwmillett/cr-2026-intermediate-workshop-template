@@ -1,0 +1,373 @@
+{
+  "1988": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "r-type-tg16",
+        "name": "R-Type",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 31,
+              "name": "TurboGrafx-16",
+              "slug": "turbografx-16"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1988-03-25",
+        "tba": false,
+        "background_image": "/images/r-type-tg16/cover.png",
+        "rating": 4.3,
+        "rating_top": 5,
+        "ratings": [],
+        "ratings_count": 210,
+        "reviews_text_count": "25",
+        "added": 320,
+        "added_by_status": {
+          "owned": 140,
+          "beaten": 90,
+          "dropped": 40,
+          "toplay": 30,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 12,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50120,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 210,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 10,
+              "name": "NEC",
+              "slug": "nec"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/r-type-tg16/cover.png"
+        ]
+      }
+    ]
+  },
+  "1989": {
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "blazing-lazers-tg16",
+        "name": "Blazing Lazers",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 31,
+              "name": "TurboGrafx-16",
+              "slug": "turbografx-16"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-06-30",
+        "tba": false,
+        "background_image": "/images/blazing-lazers-tg16/cover.png",
+        "rating": 4.1,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 150,
+        "reviews_text_count": "18",
+        "added": 230,
+        "added_by_status": {
+          "owned": 100,
+          "beaten": 60,
+          "dropped": 30,
+          "toplay": 25,
+          "yet": 15
+        },
+        "metacritic": null,
+        "suggestions_count": 8,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50121,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 150,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 10,
+              "name": "NEC",
+              "slug": "nec"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 2,
+            "name": "Shooter",
+            "slug": "shooter"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/blazing-lazers-tg16/cover.png"
+        ]
+      },
+      {
+        "slug": "military-madness-tg16",
+        "name": "Military Madness",
+        "playtime": 4,
+        "platforms": [
+          {
+            "platform": {
+              "id": 31,
+              "name": "TurboGrafx-16",
+              "slug": "turbografx-16"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-08-25",
+        "tba": false,
+        "background_image": "/images/military-madness-tg16/cover.png",
+        "rating": 3.9,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 95,
+        "reviews_text_count": "12",
+        "added": 150,
+        "added_by_status": {
+          "owned": 65,
+          "beaten": 40,
+          "dropped": 20,
+          "toplay": 15,
+          "yet": 10
+        },
+        "metacritic": null,
+        "suggestions_count": 6,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50122,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 95,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 10,
+              "name": "NEC",
+              "slug": "nec"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 10,
+            "name": "Strategy",
+            "slug": "strategy"
+          }
+        ],
+        "images": [
+          "/images/military-madness-tg16/cover.png"
+        ]
+      },
+      {
+        "slug": "bonks-adventure-tg16",
+        "name": "Bonk's Adventure",
+        "playtime": 3,
+        "platforms": [
+          {
+            "platform": {
+              "id": 31,
+              "name": "TurboGrafx-16",
+              "slug": "turbografx-16"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1989-12-15",
+        "tba": false,
+        "background_image": "/images/bonks-adventure-tg16/cover.png",
+        "rating": 4.0,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 180,
+        "reviews_text_count": "20",
+        "added": 280,
+        "added_by_status": {
+          "owned": 120,
+          "beaten": 80,
+          "dropped": 35,
+          "toplay": 25,
+          "yet": 20
+        },
+        "metacritic": null,
+        "suggestions_count": 10,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50119,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 180,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 10,
+              "name": "NEC",
+              "slug": "nec"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 83,
+            "name": "Platformer",
+            "slug": "platformer"
+          },
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/bonks-adventure-tg16/cover.png"
+        ]
+      }
+    ]
+  },
+  "1990": {
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "slug": "splatterhouse-tg16",
+        "name": "Splatterhouse",
+        "playtime": 2,
+        "platforms": [
+          {
+            "platform": {
+              "id": 31,
+              "name": "TurboGrafx-16",
+              "slug": "turbografx-16"
+            }
+          }
+        ],
+        "stores": null,
+        "released": "1990-04-03",
+        "tba": false,
+        "background_image": "/images/splatterhouse-tg16/cover.png",
+        "rating": 3.8,
+        "rating_top": 4,
+        "ratings": [],
+        "ratings_count": 130,
+        "reviews_text_count": "15",
+        "added": 200,
+        "added_by_status": {
+          "owned": 85,
+          "beaten": 55,
+          "dropped": 30,
+          "toplay": 18,
+          "yet": 12
+        },
+        "metacritic": null,
+        "suggestions_count": 9,
+        "updated": "2020-01-01T00:00:00",
+        "id": 50123,
+        "score": null,
+        "clip": null,
+        "tags": [],
+        "esrb_rating": {
+          "id": 1,
+          "slug": "everyone",
+          "name": "Everyone"
+        },
+        "user_game": null,
+        "reviews_count": 130,
+        "saturated_color": "0f0f0f",
+        "dominant_color": "0f0f0f",
+        "short_screenshots": [],
+        "parent_platforms": [
+          {
+            "platform": {
+              "id": 10,
+              "name": "NEC",
+              "slug": "nec"
+            }
+          }
+        ],
+        "genres": [
+          {
+            "id": 4,
+            "name": "Action",
+            "slug": "action"
+          }
+        ],
+        "images": [
+          "/images/splatterhouse-tg16/cover.png"
+        ]
+      }
+    ]
+  }
+}
