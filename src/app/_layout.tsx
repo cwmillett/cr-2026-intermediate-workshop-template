@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import { Platform } from "react-native"
 import { useFonts } from "expo-font"
 import { Stack, SplashScreen } from "expo-router"
 import { QueryClientProvider } from "@tanstack/react-query"
@@ -20,8 +21,10 @@ if (__DEV__) {
   require("@/devtools/ReactotronConfig")
 
   // MSW mocking disabled - using live API at cr-2026-retro-games-api.expo.app
-  // Keep polyfills for URL support on Android
-  require("@/services/mocks/msw.polyfills")
+  // URL polyfills are only needed on Android (Hermes); loading on iOS causes runtime errors.
+  if (Platform.OS === "android") {
+    require("@/services/mocks/msw.polyfills")
+  }
   // const { server } = require("@/services/mocks/server")
   // server.listen()
 }
